@@ -1,0 +1,15 @@
+# MiniProject_WebAutomation_Selenium
+WebAutomation using Selenium
+
+WebAutomation of Hotel site 
+
+constraints : price range between 2000-4000, location should be Mumbai, stay should be for 2 days.
+
+Just import my project in Eclipse or any other available IDE
+
+if you face any error :
+
+Try installing TestNg in your project 
+Add jar files of Apache POI
+Add jar files of Selenium 
+
